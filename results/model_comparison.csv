@@ -1,0 +1,6 @@
+model,RMSE train,%err train,RMSE test1,%err test1,RMSE test2,%err test2,RMSE test1 incl. outlier
+Dummy (train mean),327.2,29.6,398.8,28.2,510.6,36.1,400.7
+Capacity fade only,290.9,22.9,357.8,23.3,450.7,29.3,353.7
+Variance (1 feature),103.6,14.1,138.4,13.2,196.0,11.4,138.0
+dQ stats (5 features),99.9,13.2,127.5,13.3,204.4,11.5,132.1
+Random forest (5 feat),79.0,6.0,165.8,13.3,228.0,12.9,167.1
