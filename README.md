@@ -1,6 +1,6 @@
 # Predicting Lithium-Ion Battery Cycle Life from the First 100 Cycles
  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/battery-cycle-life-prediction/blob/main/battery_cycle_life_prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Huzaifaahmad001/battery-cycle-life-prediction/blob/main/battery_cycle_life_prediction.ipynb)
  
 Predicts how many charge–discharge cycles a lithium-ion cell will last, using only its first 100 cycles.
 The project re-implements the ΔQ(V) variance model of Severson et al. (2019) on the processed arrays
